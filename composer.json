@@ -1,0 +1,16 @@
+{
+    "name": "kuriyamayuki/cicd-practice",
+    "authors": [
+        {
+            "name": "kyuri89",
+            "email": "ykjp812@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.15",
+        "slim/psr7": "^1.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^13.0"
+    }
+}
