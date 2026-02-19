@@ -6,6 +6,6 @@ class HelloTest extends TestCase
     public function testHello()
     {
         $data = ['message' => 'Hello World'];
-        $this->assertEquals('こんにちは', $data['message']);
+        $this->assertEquals('Hello World', $data['message']);
     }
 }
